@@ -5,5 +5,5 @@ The emit function emits a event.
 - `...args`: Arguments for the event
 ## EXAMPLE
 ```ts
-socket.emit("message", "hi!")
+bot.emit("message", "hi!")
 ```
